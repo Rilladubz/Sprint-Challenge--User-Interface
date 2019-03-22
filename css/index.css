@@ -66,6 +66,42 @@ p {
     line-height: 1.4;
 }
 
+.strategy-how {
+    display: flex;
+    justify-content: center;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.about {
+    margin: 20px;
+}
+
+div .jumbo-img {
+    align-content: center;  
+}
+.top-nav  {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .Logonav {
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+.Main-img {
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -102,15 +138,119 @@ p {
 }
 
 .middle-content .boxes .box {
+}
+
+.boxes .one {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background: teal;
     margin: 20px 2.5%;
     color: white;
+    justify-content: center;
     display: flex;
     align-items: center;
-    justify-content: center;
 }
+
+.boxes .two {
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .three {
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .four {
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .five {
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .six {
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .seven {
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .eight {
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .nine {
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.boxes .ten {
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
 
 .bottom-content {
     display: flex;
@@ -126,6 +266,7 @@ p {
     padding-right: 0;
 }
 
+
 footer {
     width: 100%;
     background: black;
@@ -134,13 +275,52 @@ footer {
 footer nav {
     width: 60%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    margin: 0 auto;
 }
 
 footer nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: none;  
+}
+
+.strategy-how {
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px ;
+    float: left;
+}
+
+.main-top-img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.how-we {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px ;
+    float: left;
+}
+
+.learn {
+    display: flex;
+    justify-content: space-between
+}
+
+/* .about-main-body {
+    display: flex;
+    justify-content: space-between;
+} */
+
+head {
+    display: flex;
+    justify-content: center;
 }
