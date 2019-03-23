@@ -24,7 +24,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for the home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
 
-[Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
+[Click here for the about page example](c)
 
 ## Self-Study Questions
 
@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML is essentially using html in a way that makes it easy to understand the way in which a page is laid out. Utilizing class & ID is an example of making your html code a little more sementic. It gives meaning to the way in which a page is divided so when you enter the CCS element of the page it is easy to read and style. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Display block turns the space to the left and right of the blocked element into space simply dedicated for that object. The blocks then will stack upon one another. While Inline sort of does the break into the next line as if you're reading and is more forgiving with items to the left and right of it. 
 
 3. What are the 4 areas of the box model?
 
+    Margin, Border, Padding, Content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    Align-items works on the cross axis. 
+
 5. Explain why git is valuable to a team of developers.
+    
+    Git is valuable to a team of developers because it allows multiple users to work on the sameproject with out damaging or breaking the original while also being able to contribute to a project and take different elements from each team member and contribute them to the main project. Git, also allows users to do time machine like back ups and revert to previous versions of code if anything were to break. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
